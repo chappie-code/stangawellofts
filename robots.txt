@@ -1,0 +1,12 @@
+
+
+User-agent: *
+Disallow: /scripts/ # This is an infinite virtual URL space
+Disallow: /php/ 
+Disallow: /cgi-bin/
+Disallow: /mailer/
+Disallow: /TESTING/
+Disallow: /mail.php 
+Disallow: /.htaccess 
+Disallow: /pedigree.php 
+Disallow: /2006/Stan_Gawel's_Stock_Loft.php

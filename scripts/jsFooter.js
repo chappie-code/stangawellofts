@@ -1,0 +1,2 @@
+name = "<font size='-1' style=\"padding-left:25px;\">&copy; Site maintained by <a href='http://www.ableit.ca'>AbleIt</a></font>";
+document.write('<div style=\"width:225px;margin:30px auto 0 auto;border-top:1px solid #4186C5; \">' + name + "</div>");

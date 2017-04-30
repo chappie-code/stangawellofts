@@ -1,0 +1,25 @@
+﻿/* Overlay */
+#Overlay {z-index:250;position:absolute;top:0px;left:0px;font-family:Verdana;font-size:10pt;background-image: url('../images/clear80.png');
+    min-height:800px;min-width:1400px;height:100%;}   
+       
+#OverlayHtml {position:relative;top:10px;left:10px;background-color:white;border:1px solid black;height:300px;width:300px;
+    z-index:2;margin:50px auto;background-image: url('../images/clear80.png');}
+#OverlayHtmlTitle {color:White;background-color:Blue;font-size:11pt;width:300px;height:25px;margin:0px auto;background:url('../images/formtop.png');}
+#OverlayHtml {width:500px;height:500px;}
+#OverlayHtml.Title {width:100%;height:30px;background:url('../images/formtop.png');}
+#OverlayHtml.Body {width:100%;height:470px;}
+
+
+#OverlayHtml img {margin:0 auto;}
+
+
+/*
+#Overlay {z-index:3;position:absolute;top:0px;left:0px;font-family:Verdana;font-size:10pt;background-image:url('../images/clear80.png');}
+
+#OverlayHtml {position:relative;top:10px;left:10px;background-color:white;border:1px solid black;
+    height:300px;width:300px;z-index:2;margin:50px auto;opacity:1;filter:Alpha(Opacity=100);}
+#OverlayHtml.Title {width:100%;height:30px;background:url('../images/formtop.png');}
+#OverlayHtml.Body {width:100%;height:470px;}
+#OverlayHtml.Footer {width:100%;height:30px;}
+*/
+/* End Overlay */

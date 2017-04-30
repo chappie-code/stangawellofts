@@ -1,0 +1,32 @@
+
+#menubackground{background-color:White;width:100%;height:32px;margin:0 auto;border-bottom:1px solid black;}
+#menu{background-color:#C9E7F5;border:none;border:0px;margin:0 auto;padding:0;width:600px;}
+#mnuSendMain{max-height:22px;overflow:hidden;}
+#imgEmail{width:20px;height:20px;}
+/* styles for the top level menu */  
+#menu ul{height:21px;list-style:none;margin:0;padding:0;text-decoration:none;}
+#menu li{background-color:#C9E7F5;float:left;padding:0px 0px 0px 0px;text-decoration:none;list-style:none;}
+#menu li:first{float:left;padding:0px 0px 0px 10px;text-decoration:none;list-style:none;}
+#menu li a{display:block;/*width:110px;*/line-height:22px;margin:-1px -1px 0 0;padding:0px 4px;border:1px solid black;
+   font-weight:bold;font-family:arial,comic sans ms,technical;font-style:normal;font-size:10pt;
+   text-align:center;text-decoration:none;color:#000000}
+
+#menu li a:hover, #menu ul li:hover a{text-decoration:none;background-color:#60B9E2;}
+		
+/* styles for the 2nd level menu */
+#menu li ul{background:#C9E7F5;display:none;height:auto;padding:0px;margin:0px;border:0px;
+	position:absolute;width:175px;z-index:200; border:solid 1px #868588;
+   -moz-box-shadow: 3px 3px 3px #666666;
+   -webkit-box-shadow: 3px 3px 3px #666666;
+   box-shadow: 3px 3px 3px #666666;}
+
+/* show the sub menu when the mouse is over the top menu */
+#menu li:hover ul{display:block;}
+#menu li:hover li a{background:none;}
+/* style the sub menu */
+#menu li li {display:block;float:none;margin:0px;padding:0px;width:150px;height:19px;}
+#menu li li.linebreak {border-top: solid 1px #868588; display:block;float:none;margin:0px 1px 0px 25px;padding:0px 9px 0px 0px;width:150px;height:0px;}
+/* style the sub menu items */
+#menu li ul a{border:0px;display:block;height:19px;width:140px;font-style:normal;margin:0px;padding:0px 10px 0px 25px;text-align:left;}
+#menu li ul a:hover, #menu li ul li:hover a{border:0px;text-decoration:none;background-color:#60B9E2;overflow:hidden;}		
+#menu p{clear:left;}
