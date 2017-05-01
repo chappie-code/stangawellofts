@@ -299,16 +299,16 @@
                1st National Ace Pigeon 1 Day Long Distance Vredesduif 1999
             </p>
             <p>
-                 Over the past 15 years I�ve been purchasing the 1st National Ace Champions of Holland,
+                 Over the past 15 years I've been purchasing the 1st National Ace Champions of Holland,
                Belgium and Germany and had great success breeding top foundation breeders from
                these pigeons.  In 1996 I decided to start a loft in Holland racing youngsters back off
                children of these National Aces.  My first year was average but from then on the results
                went right up to the top.  We have placed in the top 3 lofts in all the championships with
-               over 5000 lofts competing and �Super Champion� children have bred us 5 - 1st prize winners
-               with more than 10,000 birds competing. Also a �Super Champion� son bred �Mr. Verbree�, a
-               1st National Winner and a 2nd National Winner for Koopman and Son.  �Super Champion�
-               children have been great breeders.  I�ve had over 50 phone calls from clients that bred
-               winners off his offspring.  �Super Champion� was a great racer and now he is a great breeder!!
+               over 5000 lofts competing and "Super Champion" children have bred us 5 - 1st prize winners
+               with more than 10,000 birds competing. Also a "Super Champion" son bred 'Mr. Verbree', a
+               1st National Winner and a 2nd National Winner for Koopman and Son.  "Super Champion"
+               children have been great breeders.  I've had over 50 phone calls from clients that bred
+               winners off his offspring.  "Super Champion" was a great racer and now he is a great breeder!!
                Janssen  Family.
             </p>
          </div>
@@ -447,25 +447,25 @@
          <div style="width:560px;">
             <p>
                Dear Sport-friends,
-               for more than 30 years, pigeons determine the daily routine of the Drapa family. The head of the family is Andreas. Without no doubt, he is the boss. There is a clear division of tasks in the family, but it is Andreas who decides in which direction everything goes. For example, in general it�s his father who is responsible for the transport of the pigeons at training- flights. Excellent pigeons are the basic for everything. Without them nothing would work. And exactly at this point one can call Andreas a little bit fanatic. Good is not good enough. It always has to be the best of the best. Otherwise it isn�t possible to maintain the level of last years performances. We are always looking for the Best of the Best!
-               That the feeding plays an important role for pigeons should be a natural course of action, as in every other kind of sport. And especially if you make mistakes with the feeding you will certainly recognize this at your next pricing flight. A care plan can give you a hand. How many room you have, the size of your colony and the therefore arisen needs for your pigeons play a much too important role. And therefore it�s hard to assess these needs in general. Only from this reason, every breeder should decide on his own what is best for his or her pigeons.
+               for more than 30 years, pigeons determine the daily routine of the Drapa family. The head of the family is Andreas. Without no doubt, he is the boss. There is a clear division of tasks in the family, but it is Andreas who decides in which direction everything goes. For example, in general it's his father who is responsible for the transport of the pigeons at training- flights. Excellent pigeons are the basic for everything. Without them nothing would work. And exactly at this point one can call Andreas a little bit fanatic. Good is not good enough. It always has to be the best of the best. Otherwise it isn't possible to maintain the level of last years performances. We are always looking for the Best of the Best!
+               That the feeding plays an important role for pigeons should be a natural course of action, as in every other kind of sport. And especially if you make mistakes with the feeding you will certainly recognize this at your next pricing flight. A care plan can give you a hand. How many room you have, the size of your colony and the therefore arisen needs for your pigeons play a much too important role. And therefore it's hard to assess these needs in general. Only from this reason, every breeder should decide on his own what is best for his or her pigeons.
                Championships 1997 - 2007
             </p>
          </div>
          <div style="text-align:left;width:520px;margin:0 auto;">
-            �1st national Champion of Germany 1998, 2000, 2002, 2003, 2004, 2005, 2007 <br />
-            �1st Olympic Champion, Middle-Distance, Blackpool 1999 <br />
-            �1st Olympic Champion, Middle-Distance, Ostende 2007 <br />
-            �1st Olympic Champion, Allround, Ostende 2007 <br />
-            �3rd Olympic Champion, Middle-Distance, Ostende 2007 <br />
-            �4th Olympic Champion, Middle-Distance, Lievin 2003 <br />
-            �4th Olympic Champion, Allround, Lievin 2003 <br />
-            �5th Olympic Champion, Middle-Distance, Porto 2005 <br />
-            �10th Olympic Champion, Allround, Porto 2005 <br />
-            �1st Worldchampion, Middle-Distance, Versele Laga 1998 <br />
-            �3rd Worldchampion, Middle-Distance, Versele Laga 1997 <br />
-            �6th Worldchampion, Middle-Distance, Versele Laga 1998 <br />
-            �12th Worldchampion, Middle-Distance, Versele Laga 1998 <br />
+            1st national Champion of Germany 1998, 2000, 2002, 2003, 2004, 2005, 2007 <br />
+            1st Olympic Champion, Middle-Distance, Blackpool 1999 <br />
+            1st Olympic Champion, Middle-Distance, Ostende 2007 <br />
+            1st Olympic Champion, Allround, Ostende 2007 <br />
+            3rd Olympic Champion, Middle-Distance, Ostende 2007 <br />
+            4th Olympic Champion, Middle-Distance, Lievin 2003 <br />
+            4th Olympic Champion, Allround, Lievin 2003 <br />
+            5th Olympic Champion, Middle-Distance, Porto 2005 <br />
+            10th Olympic Champion, Allround, Porto 2005 <br />
+            1st Worldchampion, Middle-Distance, Versele Laga 1998 <br />
+            3rd Worldchampion, Middle-Distance, Versele Laga 1997 <br />
+            6th Worldchampion, Middle-Distance, Versele Laga 1998 <br />
+            12th Worldchampion, Middle-Distance, Versele Laga 1998 <br />
          </div>
       </td>
 	</tr>
