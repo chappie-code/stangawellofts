@@ -63,33 +63,10 @@
 		</tr>
 	</table>
 	
-	<center><img src="images/StanA.jpg" name="slide" border=0 style="" width="555" height="369" style="position:relative; left: 0px; top: 0px; z-index: 1"></center>
-	<script>
-		////change number of images below
-		var number_of_images=6
-		//change speed below (in seconds)
-		var speed=2
-		var step=2
-		var whichimage=1
-		function slideit(){
-		if (!document.images)
-		return
-		if (document.all)
-		slide.filters.blendTrans.apply()
-		document.images.slide.src=eval("image"+step+".src")
-		if (document.all)
-		slide.filters.blendTrans.play()
-		whichimage=step
-		if (step<number_of_images)
-		step++
-		else
-		step=1
-		if (document.all)
-		setTimeout("slideit()",speed*1500+3000)
-		else
-		setTimeout("slideit()",speed*1000)
-		}
-	</script>
+	<center>
+	 <a href="http://stangawellofts.com"> <img src="forSTANGAWELLOFTSca.jpg" /></a>
+</center>
+
 	<!--                         end of header                               -->
 
 	<!--                     footer                           -->

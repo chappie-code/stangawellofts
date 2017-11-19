@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+	<title>Stan Gawel's Site</title>
+   <link rel="stylesheet" href="CSS/MyStyles.css" type="text/css" />
+   <script language="JavaScript1.2">
+      function reapply(){
+         setTimeout("slideit()",1000)
+         return true
+      }
+      window.onerror=reapply
+   </script>
+   <script language="JavaScript1.1">
+      var image1=new Image()
+      image1.src="images/StanA.jpg"
+      var image2=new Image()
+      image2.src="images/Stan2.jpg"
+      var image3=new Image()
+      image3.src="images/Stan3.jpg"
+      var image4=new Image()
+      image4.src="images/Stan4.jpg"
+      var image5=new Image()
+      image5.src="images/Stan5.jpg"
+      var image6=new Image()
+      image6.src="images/Stan6.jpg"
+   </script>
+   <script type="text/javascript" src="scripts/sitemap.js"></script>
+</head>
+
+<body style="width:100%;height:100%;padding:0;margin:0;background-color:#C9E7F5;color:Black;" onLoad="slideit();preloadImages()">
+   <!-- Menu -->
+   <div id="menubackground">&nbsp;</div>
+
+   <script type="text/javascript">function Go(){return}</script>
+   <script type="text/javascript" src="scripts/exmplmenu_var.js"></script>
+   <script type="text/javascript" src="scripts/menu_com.js"></script>
+
+   <div style="width:100%;height:500px;">
+      <div style="margin:0 auto; width:750px;height:500px;">&nbsp;
+         <table style="margin:20px auto 0 auto;">
+            <tr>
+	            <td colspan="7">
+		            <img src="images/StanGawelLots.jpg" width="485" height="58" border="0">
+	            </td>
+            </tr>
+            <tr>
+	            <td><img src="images/flags/flag_canada.png" /></td>
+               <td><img src="images/flags/flag_poland.png" /></td>
+	            <td><img src="images/flags/flag_belgium.png" /></td>
+	            <td><img src="images/flags/flag_england.png" /></td>
+	            <td><img src="images/flags/flag_germany.png" /></td>
+	            <td><img src="images/flags/flag_usa.png" /></td>
+	            <td><img src="images/flags/flag_netherlands.png" /></td>
+            </tr>
+         </table>
+         <div style="width:555px;margin:0 auto;" >
+            <img src="images/StanA.jpg" alt="Stan" name="slide" border="0" style="filter:blendTrans(duration=3)" width="555" height="369" style="position:relative; left: 0px; top: 0px; z-index: 1"/>
+         </div>
+        
+         <script type="text/javascript">
+            ////change number of images below
+            var number_of_images=6
+            //change speed below (in seconds)
+            var speed=2
+            var step=2
+            var whichimage=1
+            function slideit(){
+            if (!document.images)
+            return
+            if (document.all)
+            slide.filters.blendTrans.apply()
+            document.images.slide.src=eval("image"+step+".src")
+            if (document.all)
+            slide.filters.blendTrans.play()
+            whichimage=step
+            if (step<number_of_images)
+            step++
+            else
+            step=1
+            if (document.all)
+            setTimeout("slideit()",speed*1500+3000)
+            else
+            setTimeout("slideit()",speed*1000)
+            }
+         </script>
+         <!--                         end of header                               -->
+
+      </div>
+   </div>
+   <!--                    include footer                           -->
+   <script type="text/javascript" src="scripts/jsFooter.js"></script>
+
+</body>
+</html>
